@@ -2,7 +2,7 @@
 
 ---
 
-I am in my sophomore year pursuing a bachelor of engineering in Computer Science at BITS Goa, India. I like to develop web apps and learn about new technologies while building them. I also contribute to open source organiztions especially the techonologies I use myself. I enjoy competitive programming and take part in competitions regularly.
+I am in my sophomore year pursuing a bachelor of engineering in Computer Science at BITS Goa, India. I like to develop web apps and learn about new technologies while building projects using them. I also contribute to open source organizations especially the techonologies I use myself. I enjoy competitive programming and take part in competitions regularly.
 
 ---
 
